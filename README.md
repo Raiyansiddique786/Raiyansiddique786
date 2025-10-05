@@ -1,4 +1,4 @@
-![Logo](<img width="1088" height="960" alt="github logo" src="https://github.com/user-attachments/assets/6ab40d8b-44b9-4a30-b602-dbb000c8e771" />
+[Logo](<img width="1088" height="960" alt="github logo" src="https://github.com/user-attachments/assets/6ab40d8b-44b9-4a30-b602-dbb000c8e771" />
 )
 <h1 align="center">Hi 👋, I'm MD Raiyan Siddique</h1>
 
