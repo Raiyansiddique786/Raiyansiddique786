@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/6ab40d8b-44b9-4a30-b602-dbb000c8e771" alt="GitHub Banner" width="1078" height="400">
 <h1 align="center">Hi 👋, I'm MD Raiyan Siddique</h1>
 
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate Mern Stack developer from India</h3>
 <img alt="coding" align="right" width="400" src = "https://as2.ftcdn.net/v2/jpg/15/17/92/87/1000_F_1517928722_VT34jb4GVUIHuGdKzWpl7DEKlcj38SjF.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyansiddique786&label=Profile%20views&color=0e75b6&style=flat" alt="raiyansiddique786" /> </p>
