@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Mern Stack From Apna College**
 
-- 💬 Ask me about **html, CSS, JS , Node.js, Express.js ,git & Github**
+- 💬 Ask me about **html, CSS, JS ,React,TailwindCSS, Node.js, Express.js, ,git & Github**.
 
 - 📫 How to reach me **siddiqueraiyan2001@gmail.com**
 
