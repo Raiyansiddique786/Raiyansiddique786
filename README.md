@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently persuing B.Tech(IT) at **AKTU (Lucknow)**
 
-- 🌱 I’m currently learning **Mern Stack From Apna College**
-
+- 🌱 I’m a FrontEnd Developer exploring BackEnd with Node.js.
 - 💬 Ask me about **html, CSS, JS ,React,TailwindCSS, Node.js, Express.js, ,git & Github**.
 
 - 📫 How to reach me **siddiqueraiyan2001@gmail.com**
