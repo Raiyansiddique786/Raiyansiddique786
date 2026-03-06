@@ -6,10 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyansiddique786&label=Profile%20views&color=0e75b6&style=flat" alt="raiyansiddique786" /> </p>
 
-- 🔭 I’m currently persuing B.Tech(IT) at **AKTU (Lucknow)**
 
-- 🌱 I’m a FrontEnd Developer exploring BackEnd with Node.js.
-- 💬 Ask me about **html, CSS, JS ,React,TailwindCSS, Node.js, Express.js, ,git & Github**.
+🎓  I’m currently persuing B.Tech(IT) at **AKTU (LUCKNOW)
+- 📊 Aspiring Data Analyst passionate about turning data into meaningful insights.
+- 💬 Ask me about ** Python, Excel , SQL, PowerBI, git & Github**.
 
 - 📫 How to reach me **siddiqueraiyan2001@gmail.com**
 
