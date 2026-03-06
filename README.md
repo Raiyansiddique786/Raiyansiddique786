@@ -57,8 +57,6 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raiyansiddique786&show_icons=true&locale=en" alt="raiyansiddique786" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiyansiddique786&" alt="raiyansiddique786" /></p>
 
 
