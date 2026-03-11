@@ -4,7 +4,7 @@
 
 <h3 align="center">Aspiring Data Analyst | Excel • SQL • Python • Power BI</h3>
 
-<img alt="data analytics" align="right" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/11399872/data-analysis.gif"/>
+<img alt="data analytics" align="right" width="400" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"/>
 
 
 <p align="left"> 
