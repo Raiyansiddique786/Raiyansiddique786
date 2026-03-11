@@ -1,4 +1,9 @@
 <img src="https://github.com/user-attachments/assets/6ab40d8b-44b9-4a30-b602-dbb000c8e771" alt="GitHub Banner" width="1078" height="400">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&lines=Hi+I'm+Md+Raiyan+Siddique;Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+Data+Into+Insights" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md%20Raiyan%20Siddique&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20|%20Excel%20|%20SQL%20|%20Python%20|%20Power%20BI&descAlignY=60" />
 <h1 align="center">Hi 👋, I'm MD Raiyan Siddique</h1>
 
 <h3 align="center">Aspiring Data analyst</h3>
