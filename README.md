@@ -6,7 +6,6 @@
 
 <img alt="data analytics" align="right" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/11399872/data-analysis.gif"/>
 
-<img alt="data analytics" align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4zZ2b7G7x9E0N3X2NDSSYQ.png"/>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=raiyansiddique786&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
