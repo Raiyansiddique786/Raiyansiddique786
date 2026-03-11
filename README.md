@@ -6,7 +6,10 @@
 
 <img alt="data analytics" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> 
+
+<p align="left"> <img alt="data analytics" align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+
+  
 <img src="https://komarev.com/ghpvc/?username=raiyansiddique786&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
