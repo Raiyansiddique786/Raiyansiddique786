@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/6ab40d8b-44b9-4a30-b602-dbb000c8e771" alt="GitHub Banner" width="1078" height="400">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&lines=Hi+I'm+Md+Raiyan+Siddique;Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+Data+Into+Insights" />
 
 
